@@ -1,5 +1,8 @@
 # AIoD API 
 
+
+Please ignore.
+
 This repository contains the AI on Demand (AIoD) REST API. It is built with 
 [FastAPI](https://fastapi.tiangolo.com/)
 that interacts with a database ([MySQL](https://hub.docker.com/_/mysql))
